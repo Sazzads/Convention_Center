@@ -1,0 +1,26 @@
+/* add google font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+}
+/* card grid  */
+.card3-css:hover{
+    background-color: yellowgreen;
+}
+/* grid hot  */
+.hot{
+    margin-top: -14px;
+}
+/* icon resize  */
+.icon{
+    height: 35px;
+    width: 100px;
+}
+.zoom {
+    transition: transform .2s;
+  }
+  
+  .zoom:hover {
+    transform: scale(1.1);
+
+  }
